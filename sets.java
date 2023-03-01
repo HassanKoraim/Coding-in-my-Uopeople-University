@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package lab_9;
+package sets;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -16,7 +16,7 @@ import javax.swing.JFileChooser;
  *
  * @author f
  */
-public class Lab_9 {
+public class Sets {
 
     /**
      * @param args the command line arguments
