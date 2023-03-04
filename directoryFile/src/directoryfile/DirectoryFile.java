@@ -30,9 +30,9 @@ public class DirectoryFile {
     }
         
     public static void listOfFilesInFile(){
-        String directoryName;
-        File directory;
-        String[] files;
+        String directoryName;      // Directory name entered by the user.
+        File directory;           // File object referring to the directory.
+        String[] files;           // Array of file names in the directory.
         Scanner scan = new Scanner(System.in);
         System.out.println("Enter The name of the directory");
         directoryName = scan.nextLine().trim();
